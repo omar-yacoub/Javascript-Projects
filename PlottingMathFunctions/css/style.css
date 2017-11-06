@@ -1,0 +1,22 @@
+  section {
+    border: 4px solid grey;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px gray;
+    float: left;
+    height: 360px;
+    padding: 20px;
+    margin: 10px;
+  }
+  
+  #plotSetting {
+    width:140px;
+  }
+
+  #plot{
+    width:550px;
+  }
+
+  section{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+  }
